@@ -14,8 +14,8 @@ app = Flask(__name__)
 # SQL Server connection string
 connection_string = (
     r"Driver={SQL Server};"
-    r"Server=DESKTOP-ECI9CJ4\SQLEXPRESS01;"
-    r"Database=PRAJYOT;"
+    r"Server=*********;"
+    r"Database=******;"
     r"Trusted_Connection=yes;"
     r"Encrypt=no;"
 )
